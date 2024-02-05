@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoslo&show_icons=true&locale=en" alt="hoslo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoslo&" alt="hoslo" /></p>
+
+<img src="https://raw.githubusercontent.com/hoslo/hoslo/output/snake.svg" alt="Snake animation" />
